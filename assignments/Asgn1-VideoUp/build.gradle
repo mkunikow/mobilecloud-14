@@ -60,6 +60,8 @@ dependencies {
 
     compile(":video.up.test:1.0.0")
     compile(":mobilecloud.handin:1.0.0")
+
+
     
     testCompile("junit:junit")
 }
