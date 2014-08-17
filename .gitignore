@@ -12,3 +12,6 @@ build
 .idea
 *.iml
 coursera-submission
+gradlew
+gradlew.bat
+gradle
